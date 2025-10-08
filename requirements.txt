@@ -1,0 +1,14 @@
+requests
+pdfplumber
+python-dotenv
+msal
+pandas
+odfpy
+numpy
+sys
+os
+glob
+ezodf
+lxml
+pymupdf
+
